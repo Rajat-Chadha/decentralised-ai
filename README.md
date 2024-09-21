@@ -1,6 +1,3 @@
-Here's a breakdown of how you can structure the pitch deck for your idea on a decentralized data center to power Generative AIs like ChatGPT:
-
----
 
 ### **1. Title Slide**
 **Title**: Decentralized Data Center for Generative AI  
